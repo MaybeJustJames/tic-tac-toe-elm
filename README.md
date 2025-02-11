@@ -2,6 +2,8 @@
 
 [Start here](https://ellie-app.com/tBPjVj9q4Fna1)
 
+![Start QR code](start.png)
+
 You can find the completed game [here](https://ellie-app.com/tBPqQ7YDykka1).
 
 ## Introduction
